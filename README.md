@@ -45,7 +45,7 @@ HTML5 and css3 which the latest versions were used in this project.
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]** awesome-books built with HTML and CSS
+- **[key_feature_1]** awesome-books built with HTML, CSS and JavaScript
 - **[key_feature_2]** 
 - **[key_feature_3]** 
 
@@ -53,7 +53,7 @@ HTML5 and css3 which the latest versions were used in this project.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://enixword.github.io/awesome-books/)
+- [Live Demo Link](https://github.com/EnixWord/ES6-awesome-books)
 
 <!-- GETTING STARTED -->
 
@@ -73,7 +73,7 @@ live server.
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/EnixWord/awesome-books.git
+https://github.com/EnixWord/ES6-awesome-books.git
 
 ### Install
 
@@ -104,7 +104,7 @@ github pages.
 
 👤 **Author2**
 
-- GitHub [@kayembajonathan] (https://github.com/kayembajonathan)
+- GitHub [] ()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,7 +121,7 @@ github pages.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EnixWord/awesome-books/issues).
+Feel free to check the [issues page]().
 
 <!-- SUPPORT -->
 
