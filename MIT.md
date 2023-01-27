@@ -1,4 +1,4 @@
-## Copyright 2022, APPIAH-KUBI RACHEAL, STEPHEN OKHAISHIE.
+## Copyright 2022, STEPHEN OKHAISHIE.
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
